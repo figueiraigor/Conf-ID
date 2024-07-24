@@ -42,6 +42,9 @@ Fecha #15 (Integrar com gov.br para validação de dados)
 
 Fecha #21 (Estabelecer conexão de API com sistemas regionais do CREA)
 
+Link de acesso a apresentação:
+https://docs.google.com/presentation/d/1cPM7D6umgpYF8BRyPt0o6Q7vIp1Wpdgs6ycyzdsW0Hw/edit?usp=sharing
+
 Testes:
 
 Endpoints de API totalmente testados para registro, validação de dados e integração do sistema CREA.
