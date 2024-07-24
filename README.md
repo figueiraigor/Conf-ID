@@ -6,7 +6,7 @@ feat(núcleo): Implementa fluxo de registro unificado e integração de API com 
 
 Este commit marca um marco significativo no desenvolvimento do Conf-ID, entregando a funcionalidade principal para um sistema unificado de registro profissional para engenheiros, agrônomos e geocientistas no Brasil.
 
-<b>Principais Recursos Implementados:<B>
+<b>Principais Recursos Implementados:</b>
 
 Fluxo de Registro Unificado: Processo de registro de usuário simplificado com um único formulário e validação automática de dados com APIs gov.br (e-Gov).
 
