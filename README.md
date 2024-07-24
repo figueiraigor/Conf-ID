@@ -2,7 +2,7 @@ Mensagem de Commit:
 
 feat(núcleo): Implementa fluxo de registro unificado e integração de API com CREA/gov.br
 
-Descrição do Commit:
+<b>Descrição do Commit:</b>
 
 Este commit marca um marco significativo no desenvolvimento do Conf-ID, entregando a funcionalidade principal para um sistema unificado de registro profissional para engenheiros, agrônomos e geocientistas no Brasil.
 
