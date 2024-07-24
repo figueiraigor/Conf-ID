@@ -6,7 +6,7 @@ feat(núcleo): Implementa fluxo de registro unificado e integração de API com 
 
 Este commit marca um marco significativo no desenvolvimento do Conf-ID, entregando a funcionalidade principal para um sistema unificado de registro profissional para engenheiros, agrônomos e geocientistas no Brasil.
 
-Principais Recursos Implementados:
+<b>Principais Recursos Implementados:<B>
 
 Fluxo de Registro Unificado: Processo de registro de usuário simplificado com um único formulário e validação automática de dados com APIs gov.br (e-Gov).
 
@@ -26,7 +26,7 @@ Inclui campos para RNP (Registro Nacional Profissional), detalhes do profissiona
 
 Implementa medidas de segurança adequadas para proteger informações confidenciais (criptografia, controles de acesso).
 
-Próximos Passos:
+<b>Próximos Passos:</b>
 
 Desenvolver interfaces de front-end (painel do usuário, formulários de registro) para conectar com a funcionalidade de back-end implementada.
 
@@ -34,7 +34,7 @@ Implementar a emissão automatizada de ART (Anotação de Responsabilidade Técn
 
 Projetar e desenvolver fluxos de autenticação e autorização de usuários usando integração com gov.br (e-Gov).
 
-Problemas Relacionados:
+<b>Problemas Relacionados:</b>
 
 Fecha #12 (Implementar fluxo de registro unificado)
 
@@ -42,10 +42,10 @@ Fecha #15 (Integrar com gov.br para validação de dados)
 
 Fecha #21 (Estabelecer conexão de API com sistemas regionais do CREA)
 
-Link de acesso a apresentação:
+<b>Link de acesso a apresentação:</b>
 https://docs.google.com/presentation/d/1cPM7D6umgpYF8BRyPt0o6Q7vIp1Wpdgs6ycyzdsW0Hw/edit?usp=sharing
 
-Testes:
+<b>Testes:</b>
 
 Endpoints de API totalmente testados para registro, validação de dados e integração do sistema CREA.
 
